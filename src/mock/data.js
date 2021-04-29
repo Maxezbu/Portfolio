@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'Desarrollador Web en  JavaScript con ReactJs/NodeJs, apasionado por la programación, detallista y dedicado.',
   paragraphTwo:
-    'Participé de proyectos variados siempre con el eje en la funcionalidad, donde mi particiáción se oriento principalmente al Front-End',
+    'Trabajé de proyectos variados siempre con el eje en la funcionalidad, donde mi participación se oriento principalmente al Front-End',
   paragraphThree:
     'Con capacidad de aprendizaje rápida me intereso por proyectos desafíantes y nuevos conocimientos constantemente',
   resume: 'https://drive.google.com/file/d/1JbZ87-5CFaBmP31HockzxNbsfUQ1Ivk2/view?usp=sharing', // if no resume, the button will not show up
@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'admin&&cadeteria.png',
+    img: 'cadeteria&&cadete.png',
     title: 'APP - SERVICIO DE ENVÍOS A DOMICILIO',
     info:
       'Aplicación para empresas que utilizan el envio de paquetes a domicilio a través del servicio de cadeterías. La empresa sube los pedidos por día y son repartidos a las cadeterías que estan habilitadas. A su vez cada cadetería registra/habilita a sus cadetes para tomar las ordenes que cuentan con ubicación de entrega (map) y otros datos específicos.',
