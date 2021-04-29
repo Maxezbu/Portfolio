@@ -17,10 +17,13 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  img: 'fo.png',
+  paragraphOne:
+    'Desarrollador Web en  JavaScript con ReactJs/NodeJs, apasionado por la programación, detallista y dedicado.',
+  paragraphTwo:
+    'Participé de proyectos variados siempre con el eje en la funcionalidad, donde mi particiáción se oriento principalmente al Front-End',
+  paragraphThree:
+    'Con capacidad de aprendizaje rápida me intereso por proyectos desafíantes y nuevos conocimientos constantemente',
   resume: 'https://drive.google.com/file/d/1JbZ87-5CFaBmP31HockzxNbsfUQ1Ivk2/view?usp=sharing', // if no resume, the button will not show up
 };
 
@@ -39,11 +42,12 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'E-Books',
+    info:
+      'E-Commerce para la compra y venta de libros on-line. La aplicación permite ver una descripción de cada libro, su categoría, seleccionarlo y comprar uno o varios. Cuenta con la posibilidad de tener administradores que pueden eliminar usuarios, crear/editar categorías, crear/editar libros',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/Maxezbu/E-Books', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
