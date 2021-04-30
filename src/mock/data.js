@@ -21,9 +21,9 @@ export const aboutData = {
   paragraphOne:
     'Desarrollador Web en  JavaScript con ReactJs/NodeJs, apasionado por la programación, detallista y dedicado.',
   paragraphTwo:
-    'Trabajé de proyectos variados siempre con el eje en la funcionalidad, donde mi participación se oriento principalmente al Front-End',
+    'Trabajé en proyectos variados, donde mi participación se orientó principalmente al Front-End, manteniendo siempre el eje en la funcionalidad.',
   paragraphThree:
-    'Con capacidad de aprendizaje rápida me intereso por proyectos desafíantes y nuevos conocimientos constantemente',
+    'Con rápida capacidad de aprendizaje, me intereso por proyectos desafiantes y nuevos conocimientos constantemente',
   resume: 'https://drive.google.com/file/d/1JbZ87-5CFaBmP31HockzxNbsfUQ1Ivk2/view?usp=sharing', // if no resume, the button will not show up
 };
 
@@ -34,22 +34,23 @@ export const projectsData = [
     img: 'cadeteria&&cadete.png',
     title: 'APP - SERVICIO DE ENVÍOS A DOMICILIO',
     info:
-      'Aplicación para empresas que utilizan el envio de paquetes a domicilio a través del servicio de cadeterías. La empresa sube los pedidos por día y son repartidos a las cadeterías que estan habilitadas. A su vez cada cadetería registra/habilita a sus cadetes para tomar las ordenes que cuentan con ubicación de entrega (map) y otros datos específicos.',
+      'Aplicación para empresas que utilizan el envío de paquetes a domicilio a través del servicio de cadeterías. La empresa sube los pedidos por día y son repartidos a las cadeterías que estan habilitadas. A su vez cada cadetería registra/habilita a sus cadetes para tomar las órdenes que cuentan con ubicación de entrega (map) y otros datos específicos.',
     info2: '',
-    url: 'https://youtu.be/KsBnpz0c3xY',
+    url:
+      'https://www.youtube.com/watch?v=KsBnpz0c3xY&list=PLieyypxOTlSybH-5sF-BJTemANE4UBnbl&ab_channel=EzeBurru',
     repo: 'https://github.com/Maxezbu/Cruce', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'E-booksPic.png',
     title: 'E-Books',
     info:
       'E-Commerce para la compra y venta de libros on-line. La aplicación permite ver una descripción de cada libro, su categoría, seleccionarlo y comprar uno o varios. Cuenta con la posibilidad de tener administradores que pueden eliminar usuarios, crear/editar categorías, crear/editar libros',
     info2: '',
-    url: '',
+    url: 'https://youtu.be/ZQMYWNQ3dBA',
     repo: 'https://github.com/Maxezbu/E-Books', // if no repo, the button will not show up
   },
-  {
+  /* {
     id: nanoid(),
     img: 'project.jpg',
     title: '',
@@ -57,7 +58,7 @@ export const projectsData = [
     info2: '',
     url: '',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
+  }, */
 ];
 
 // CONTACT DATA
