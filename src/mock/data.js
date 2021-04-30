@@ -36,7 +36,7 @@ export const projectsData = [
     info:
       'Aplicación para empresas que utilizan el envio de paquetes a domicilio a través del servicio de cadeterías. La empresa sube los pedidos por día y son repartidos a las cadeterías que estan habilitadas. A su vez cada cadetería registra/habilita a sus cadetes para tomar las ordenes que cuentan con ubicación de entrega (map) y otros datos específicos.',
     info2: '',
-    url: '',
+    url: 'https://youtu.be/KsBnpz0c3xY',
     repo: 'https://github.com/Maxezbu/Cruce', // if no repo, the button will not show up
   },
   {
