@@ -24,7 +24,7 @@ export const aboutData = {
     'Trabajé en proyectos variados, donde mi participación se orientó principalmente al Front-End, manteniendo siempre el eje en la funcionalidad.',
   paragraphThree:
     'Con rápida capacidad de aprendizaje, me intereso por proyectos desafiantes y nuevos conocimientos constantemente',
-  resume: 'https://drive.google.com/file/d/1JbZ87-5CFaBmP31HockzxNbsfUQ1Ivk2/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1gyfVSnyE9tkovvUCBpxJa4RL6CfoKSau/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
