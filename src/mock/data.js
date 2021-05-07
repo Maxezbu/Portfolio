@@ -34,7 +34,7 @@ export const projectsData = [
     img: 'cadeteria&&cadete.png',
     title: 'APP - SERVICIO DE ENVÍOS A DOMICILIO',
     info:
-      'Aplicación para empresas que utilizan el envío de paquetes a domicilio a través del servicio de cadeterías. La empresa sube los pedidos por día y son repartidos a las cadeterías que estan habilitadas. A su vez cada cadetería registra/habilita a sus cadetes para tomar las órdenes que cuentan con ubicación de entrega (map) y otros datos específicos.',
+      'Aplicación para empresas que utilizan el envío de paquetes a domicilio a través del servicio de cadeterías. La empresa sube los pedidos por día y son repartidos a las cadeterías que estan habilitadas. A su vez cada cadetería registra/habilita a sus cadetes. Tecnologías: ReactJs, NodeJs, Socket.io, Maps, MongoDB, .xlxs.',
     info2: '',
     url:
       'https://www.youtube.com/watch?v=KsBnpz0c3xY&list=PLieyypxOTlSybH-5sF-BJTemANE4UBnbl&ab_channel=EzeBurru',
@@ -45,7 +45,7 @@ export const projectsData = [
     img: 'E-booksPic.png',
     title: 'E-Books',
     info:
-      'E-Commerce para la compra y venta de libros on-line. La aplicación permite ver una descripción de cada libro, su categoría, seleccionarlo y comprar uno o varios. Cuenta con la posibilidad de tener administradores que pueden eliminar usuarios, crear/editar categorías, crear/editar libros',
+      'E-Commerce para la compra y venta de libros on-line. La aplicación permite ver una descripción de cada libro, su categoría, seleccionarlo y comprar uno o varios. Cuenta con la posibilidad de tener administradores que pueden eliminar usuarios, crear/editar categorías, crear/editar libros. Tecnologías: ReactJs, NodeJs, MongoDB, Material-ui.',
     info2: '',
     url: 'https://youtu.be/ZQMYWNQ3dBA',
     repo: 'https://github.com/Maxezbu/E-Books', // if no repo, the button will not show up
