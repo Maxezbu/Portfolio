@@ -22,7 +22,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Portfolio de Eze Buruchaga`,
+        name: `Portfolio de Eze`,
         short_name: `Portf-Eze`,
         start_url: `/`,
         background_color: `#fff`,
